@@ -1,6 +1,6 @@
 # SISTEMA_VEICULOS
 
-è necessário criar um codigo uilizando método de herança, encapsulamento e validação para montar uma tabela de veiculos, contendo automóveis, motocicletas, caminhões, bicicletas e skates, cada um com suas devidas características necessárias.
+É necessário criar um codigo uilizando método de herança, encapsulamento e validação para montar uma tabela de veiculos, contendo automóveis, motocicletas, caminhões, bicicletas e skates, cada um com suas devidas características necessárias.
 
 ## 🚀 Começando
 
